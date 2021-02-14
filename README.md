@@ -1,4 +1,3 @@
-# React_crud_funcional
 # CRUD App em React (funcional e estável)
 
 Utilizando React e Node para criação de SPA (single-page application) onde o usuario faz a inseção de dados de Nome, Sexo, Idade, Hobby e Data de nascimento.
